@@ -1,3 +1,4 @@
+this is  a fork of https://github.com/klarsys/esp8266-OLED structore was changed so it can be added to arduino std libraries
 This is an [esp8266-Arduino](https://github.com/esp8266/Arduino) library for I2C-OLED displays.
 
 ## Credits
